@@ -8,6 +8,6 @@ collected.
 It is recommended for the user to register for a ElephantSQL database and use its credentials for the .env file
 
 You can run the application by either using:
-- docker-compose up 
+- docker-compose up \
 or by accessing the folder that contains app.js and use:
 - deno run --allow-all --unstable heroku-deploy.js 
